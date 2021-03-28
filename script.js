@@ -119,6 +119,7 @@ document.addEventListener("submit", function (event) {
 function init() {
      location.reload();
  
+     
 }
 /**This function will  clear initial and score displayed on the final page */
 function clearScore() {
